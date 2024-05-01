@@ -1,6 +1,4 @@
 # appium-robot-test
-
-# appium-robot-test
 Projeto de automação de testes mobile utilizando Robot Framework e Appium.
 
 ## Instalação
