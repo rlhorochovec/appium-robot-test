@@ -1,5 +1,4 @@
 *** Settings ***
-Resource    ../steps/form_steps.robot
 Resource    ../template/cadastro_template.robot
 
 Test Setup       Abrir o aplicativo
